@@ -9,10 +9,10 @@
 
 mutiplication_table(10)'''
 
+'''
 
 
-
-'''def addition_table(number):
+def addition_table(number):
     print(f"Addition Table for {number}:")
     print("Number  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10")
     print("-" * 66)
@@ -42,13 +42,13 @@ print(addition_table(8))
 one = 'happy'
 two = 'happiness'
 common= same_characters(one, two)
-print(common)'''
-
+print(common)
+'''
 
 # OR
 
-'''
-def common_character_count(str1, str2):
+
+'''def common_character_count(str1, str2):
     # Convert strings to sets to get unique characters
     set1 = set(str1)
     set2 = set(str2)
@@ -64,8 +64,8 @@ string1 = "happy"
 string2 = "happiness"
 result = common_character_count(string1, string2)
 print(f"The number of common characters is: {result}")
-
 '''
+
 
 
 
