@@ -43,7 +43,7 @@ myvar = pd.DataFrame(data)
 
 
 
-'''THIS CODES ARE A PRACTIcE OF CSV DATA WITH THE PANDAS MODULE '''
+'''THIS CODES ARE A PRACTICE OF CSV DATA WITH THE PANDAS MODULE '''
 file = pd.read_excel('city.xlsx')
 # new_file = file.dropna() #this line of code drops rows with a vlaue missing
 
